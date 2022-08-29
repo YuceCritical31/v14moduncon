@@ -1,0 +1,1 @@
+Bu altyapı Maskot Code tarafından kodlanmıştır. Değiştirilip satılması veya paylaşılması durumunda gerekli işlemler yapılacaktır.
